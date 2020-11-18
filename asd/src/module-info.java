@@ -6,4 +6,6 @@
  *
  */
 module asd {
+  public void ad(){
+  }
 }
